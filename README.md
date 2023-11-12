@@ -1,7 +1,7 @@
 
 # Instagram Reach Analysis
 
-This README provides an overview of the Customer Lifetime Value (CLV) Analysis Project, a Python-based data analysis project that aims to extract insights from a dataset and visualize key metrics related to customer lifetime value.
+This README provides an overview of the Instagram Reach Analysis Project, a Python-based data analysis project that aims to extract insights from a dataset and visualize key metrics related to Instagram reach.
 
 ## How to use this repository
 This repository has three files:
@@ -20,11 +20,11 @@ Feel free to adapt the code to your own datasets or use it as a reference for si
 
 ## Data sources
 
-You can download the dataset from here: [https://statso.io/customer-lifetime-value-analytics-case-study/ ](https://statso.io/instagram-reach-analysis-case-study/)
+You can download the dataset from here: https://statso.io/instagram-reach-analysis-case-study/
 
 ## References
 
-[https://thecleverprogrammer.com/2023/05/01/customer-lifetime-value-analysis-using-python/ ](https://amankharwal.medium.com/data-analysis-projects-with-python-a262a6f9e68c)
+https://amankharwal.medium.com/data-analysis-projects-with-python-a262a6f9e68c 
 
 ## Results and evaluation
 
